@@ -6,4 +6,4 @@ unconnected
 
 分支写道
 
-ANDsimple
+and simple
