@@ -1,17 +1,3 @@
-just a try
-changed branch
-unconnected
-你好
-我喜欢抽电子烟
+cleaned
 
-分支写道
 
-and simple
-
-<<<<<<< HEAD
-and simple
-=======
-and
-
-and simple
->>>>>>> feature
