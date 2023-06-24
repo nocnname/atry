@@ -8,4 +8,10 @@ unconnected
 
 and simple
 
-&simple
+<<<<<<< HEAD
+and simple
+=======
+and
+
+and simple
+>>>>>>> feature
